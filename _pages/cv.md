@@ -49,15 +49,15 @@ Skills
 
 Publications
 ======
-* [A longitudinal study of electricity consumption growth in Kenya] (https://doi.org/10.1016/j.enpol.2018.08.065)
-* [How Information and Communications Technology (ICT) is Poised to Transform the Delivery of Energy Services] (http://dx.doi.org/10.18235/0001010)
-* [The Living Roads Project: Giving a Voice to Roads in Developing Cities] (http://amonline.trb.org/)
-* [Viscous Effects of Wetting and Non-Wetting Fluids on Capillary Trapping Mechanism: A Climate Change Mitigation Strategy] (https://ir.library.oregonstate.edu/concern/honors_college_theses/fn107096w)
+* [A longitudinal study of electricity consumption growth in Kenya](https://doi.org/10.1016/j.enpol.2018.08.065)
+* [How Information and Communications Technology (ICT) is Poised to Transform the Delivery of Energy Services](http://dx.doi.org/10.18235/0001010)
+* [The Living Roads Project: Giving a Voice to Roads in Developing Cities](http://amonline.trb.org/)
+* [Viscous Effects of Wetting and Non-Wetting Fluids on Capillary Trapping Mechanism: A Climate Change Mitigation Strategy](https://ir.library.oregonstate.edu/concern/honors_college_theses/fn107096w)
 
 
 Patents
 ======
-* [Multi agent consensus resolution & re-planning (Pending)] (https://patents.google.com/patent/US20190103192A1/en)
+* [Multi agent consensus resolution & re-planning (Pending)](https://patents.google.com/patent/US20190103192A1/en)
 * [Unmanned aerial vehicle-based system for livestock parasite amelioration (Approved)](https://patents.google.com/patent/US9943387B2/en)
   
 Talks
