@@ -18,28 +18,23 @@ Education
 Work experience
 ======
 
-* August 2016 to Present: PhD Candidate, Mechanical Engineering
-  * Columbia University
-  * Scope: 
-   * Electricity Consumption Segmentation & Prediction
-   * Electricity Network Analysis & Design
-   * Building an Intelligent Irrigation System
-  * Supervisor: Vijay Modi
+PhD Candidate, Mechanical Engineering, Columbia University (August 2016 to Present: )
+ * Electricity Consumption Segmentation & Prediction
+ * Electricity Network Analysis & Design
+ * Building an Intelligent Irrigation System
+ * Supervisor: Vijay Modi
 
-* Summer 2018: Applied Science Intern
-  * Descartes Labs
-   * Applying Generative Adversarial Networks to obtain Higher Resolution Satellite Images from Lower Resolution Images towards matching images from various satellites.
+Applied Science Intern, Descartes Labs (Summer 2018)
+ * Applying Generative Adversarial Networks to obtain Higher Resolution Satellite Images from Lower Resolution Images towards matching images from various satellites.
 
-* August 2015 to August 2016: Research Assistant
-  * IBM Research East Africa
-   * Energy Analytics & Health Care Research 
+Research Assistant, IBM Research East Africa (August 2015 to August 2016)
+ * IBM Research East Africa
+ * Energy Analytics & Health Care Research 
 
-* Spring 2015: Research Intern
-  * IBM Research Almaden
+Research Intern, IBM Research Almaden (Spring 2015)
    * Battery Optimization
   
-* Spring 2013: Research Intern
- * Intl. Institute for Water & Environmental Eng., Burkina Faso
+Research Intern, Intl. Institute for Water & Environmental Eng., Burkina Faso (Spring 2013)
   * Remote monitoring of soil organic carbon
  
   
