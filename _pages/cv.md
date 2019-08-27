@@ -62,8 +62,8 @@ Patents
   
 Talks
 ======
-* "Scalable Electricity Planning", Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), April 2019
-* "Challenges and Gaps during Energy Disruptions", Human Geography Dimensions of Energy Access and Use, June 2018
+* *Scalable Electricity Planning*, Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), April 2019
+* *Challenges and Gaps during Energy Disruptions*, Human Geography Dimensions of Energy Access and Use, June 2018
   
 Awards & Leadership
 ======
