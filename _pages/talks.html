@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Scalable Electricity Planning, Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), April 2019
+{% if site.talkmap_link == true %}
 
-* Challenges and Gaps during Energy Disruptions, Human Geography Dimensions of Energy Access and Use, June 2018
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
