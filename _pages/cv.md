@@ -11,49 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Engineering, Oregon State University, 2012
+* M.S. in Environmental Engineering, Stanford University, 2014
+* Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2016 to Present: PhD Candidate, Mechanical Engineering
+  * Columbia University
+  * Scope: 
+   * Electricity Consumption Segmentation & Prediction
+   * Electricity Network Analysis & Design
+   * Building an Intelligent Irrigation System
+  * Supervisor: Vijay Modi
+
+* Summer 2018: Applied Science Intern
+  * Descartes Labs
+   * Applying Generative Adversarial Networks to obtain Higher Resolution Satellite Images from Lower Resolution Images towards matching images from various satellites.
+
+* August 2015 to August 2016: Research Assistant
+  * IBM Research East Africa
+   * Energy Analytics & Health Care Research 
+
+* Spring 2015: Research Intern
+  * IBM Research Almaden
+   * Battery Optimization
+  
+* Spring 2013: Research Intern
+ * Intl. Institute for Water & Environmental Eng., Burkina Faso
+  * Remote monitoring of soil organic carbon
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Vision 
+* Machine & Deep Learning
+  * Generative Adversarial Networks
+  * Deep CNNs
+  * Disentanglement Learning
+* Python, Keras, PyTorch, Tensorflow 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* A longitudinal study of electricity consumption growth in Kenya (DOI: https://doi.org/10.1016/j.enpol.2018.08.065)
+* How Information and Communications Technology (ICT) is Poised to Transform the Delivery of Energy Services (DOI: http://dx.doi.org/10.18235/0001010)
+* The Living Roads Project: Giving a Voice to Roads in Developing Cities (http://amonline.trb.org/)
+* Viscous Effects of Wetting and Non-Wetting Fluids on Capillary Trapping Mechanism: A Climate Change Mitigation Strategy (https://ir.library.oregonstate.edu/concern/honors_college_theses/fn107096w)
+
+
+Patents
+======
+* Multi agent consensus resolution & re-planning (Pending): https://patents.google.com/patent/US20190103192A1/en
+* Unmanned aerial vehicle-based system for livestock parasite amelioration (Approved): https://patents.google.com/patent/US9943387B2/en
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* "Scalable Electricity Planning", Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), April 2019
+* "Challenges and Gaps during Energy Disruptions", Human Geography Dimensions of Energy Access and Use, June 2018
   
-Teaching
+Awards & Leadership
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Presidential Fellow Recipient, Columbia University
+* Fellow Recipient , American Association of University Women
+* Most Outstanding Student,Department of Environmental Eng, OSU 
+* Teaching Assistant, Engineering Economics, OSU
+* Senior Presenter , International Cultural Service Program, OSU 
+* OSU Chapter President, National Society of Black Engineers, OSU
