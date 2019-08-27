@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Patents"
+permalink: /patents/
+author_profile: true
+---
+
 Patents
 ======
 * [Multi agent consensus resolution & re-planning (Pending)](https://patents.google.com/patent/US20190103192A1/en) (2019)
