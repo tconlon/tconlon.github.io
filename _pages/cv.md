@@ -36,8 +36,7 @@ Work experience
   
 **Research Intern, Intl. Institute for Water & Environmental Eng., Burkina Faso (Spring 2013)**
   * Remote monitoring of soil organic carbon
- 
-  
+   
 Skills
 ======
 * Computer Vision 
@@ -46,24 +45,6 @@ Skills
   * Deep CNNs
   * Disentanglement Learning
 * Python, Keras, PyTorch, Tensorflow 
-
-Publications
-======
-* [A longitudinal study of electricity consumption growth in Kenya](https://doi.org/10.1016/j.enpol.2018.08.065) (2018)
-* [How Information and Communications Technology (ICT) is Poised to Transform the Delivery of Energy Services](http://dx.doi.org/10.18235/0001010) (2017)
-* [The Living Roads Project: Giving a Voice to Roads in Developing Cities](https://trid.trb.org/view/1439767) (2017)
-* [Viscous Effects of Wetting and Non-Wetting Fluids on Capillary Trapping Mechanism: A Climate Change Mitigation Strategy](https://ir.library.oregonstate.edu/concern/honors_college_theses/fn107096w) (2012)
-
-
-Patents
-======
-* [Multi agent consensus resolution & re-planning (Pending)](https://patents.google.com/patent/US20190103192A1/en) (2019)
-* [Unmanned aerial vehicle-based system for livestock parasite amelioration (Approved)](https://patents.google.com/patent/US9943387B2/en) (2018)
-  
-Talks
-======
-* *Scalable Electricity Planning*, Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), April 2019
-* *Challenges and Gaps during Energy Disruptions*, Human Geography Dimensions of Energy Access and Use, June 2018
   
 Awards & Leadership
 ======
