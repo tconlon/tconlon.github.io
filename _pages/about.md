@@ -15,6 +15,6 @@ I apply deep learning, computer vision and geospatial techniques towards predict
 
 Education
 ======
-:graduationcap: B.S. in Environmental Engineering, Oregon State University, 2012
-:graduationcap: M.S. in Environmental Engineering, Stanford University, 2014
-:graduationcap: Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
+:mortar_board: B.S. in Environmental Engineering, Oregon State University, 2012
+:mortar_board: M.S. in Environmental Engineering, Stanford University, 2014
+:mortar_board: Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
