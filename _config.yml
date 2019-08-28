@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simone Fobi"
 title_separator          : "-"
 name                     : &name "Simone Fobi"
-description              : &description "PhD Mechanical Engineering, Energy Analytics, Columbia University, NYC, USA  "
+description              : &description "PhD Mechanical Engineering,<br/> Energy Analytics,<br/> Columbia University, NYC, USA  "
 url                      : https://nsutezo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nsutezo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Simone Fobi"
   avatar           : "profile.png"
-  bio              : "PhD Candidiate, Mechanical Engineering, Focus in Geospatial Energy Analytics."
+  bio              : "PhD Candidiate, Mechanical Engineering, <br/> Focus in Geospatial Energy Analytics."
   location         : "Columbia University, NYC, USA"
   employer         :
   pubmed           : 
