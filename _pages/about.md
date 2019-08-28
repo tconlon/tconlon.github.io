@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Research
+======
+
 I am a fourth year PhD student in Mechanical Engineering in the Quadracci Sustainable Engineering Lab (QSEL). My research efforts are geared towards **Electricity Demand Prediction** and **Energy System Design**. 
 
 I apply deep learning to satellite images, to predict electricity usage in developing countries. This is of interest to energy providers who can leverage such models to anticipate energy generation required to meet demand. Concurrently, I apply network optimization to design the placement of energy infrastructure (transformers, low and medium voltage lines), given anticipated demand. 
