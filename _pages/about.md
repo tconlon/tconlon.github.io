@@ -15,6 +15,7 @@ I apply deep learning to satellite images, to predict electricity usage in devel
 Combining both models, I hope my research will contribute to the design and operation of more energy efficient systems, which offer high levels of reliability. 
 
 
+
 Education
 ======
 <i class="fas fa-graduation-cap"></i> B.S. in Environmental Engineering, Oregon State University, 2012    
