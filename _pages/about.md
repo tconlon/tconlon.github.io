@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Research
-======
 
 I am a fourth year PhD student in Mechanical Engineering in the Quadracci Sustainable Engineering Lab (QSEL). My research efforts are geared towards **Electricity Demand Prediction** and **Energy System Design**. 
 
