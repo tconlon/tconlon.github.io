@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Simone Fobi"
 title_separator          : "-"
-name                     : &name "<span style="color:blue">some *Simone Fobi* text</span>"
+name                     : &name "<span style="color:blue">*Simone Fobi*</span>"
 description              : &description "PhD Candidate <br/>  Mechanical Engineering <br/> Energy Analytics Focus,<br/> Columbia University, NYC, USA  "
 url                      : "https://nsutezo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simone Fobi"
+  name             : "<span style="color:blue"> *Simone Fobi* </span>"
   avatar           : "profile.png"
   bio              : "PhD Candidiate, <br/> Mechanical Engineering, <br/> Energy Analytics Focus."
   location         : "Columbia University, NYC, USA"
