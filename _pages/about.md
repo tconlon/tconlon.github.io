@@ -15,6 +15,6 @@ I apply deep learning, computer vision and geospatial techniques towards predict
 
 Education
 ======
-+1 B.S. in Environmental Engineering, Oregon State University, 2012
-+1 M.S. in Environmental Engineering, Stanford University, 2014
-+1 Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
+:+1: B.S. in Environmental Engineering, Oregon State University, 2012
+:+1: M.S. in Environmental Engineering, Stanford University, 2014
+:+1: Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
