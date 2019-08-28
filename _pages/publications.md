@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
 ---
 
 * [A longitudinal study of electricity consumption growth in Kenya](https://doi.org/10.1016/j.enpol.2018.08.065) (2018) 
