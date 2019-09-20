@@ -10,4 +10,4 @@ tags:
   - Data Science
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Checkout how I spent Summer 2019 as an Applied Science Intern at Descartes Labs. This work was done in collaboration with Clyde Wheeler.
