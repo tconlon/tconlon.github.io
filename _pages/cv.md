@@ -19,7 +19,7 @@ Work experience
 ======
 
 **PhD Candidate, Mechanical Engineering, Columbia University (August 2016 to Present)**
- * Supervisor: Vijay Modi
+ * Supervisor: Professor Vijay Modi
  * 
 
 Skills
