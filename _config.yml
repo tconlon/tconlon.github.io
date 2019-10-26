@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Terry Conlon"
-  avatar           : "profile.png"
+  avatar           : "terence_conlon.png"
   bio              : "PhD Candidiate, <br/> Mechanical Engineering, <br/> Sustainable Engineering Lab."
   location         : "Columbia University"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "sf2786@columbia.edu"
+  email            : "tmc2180@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
