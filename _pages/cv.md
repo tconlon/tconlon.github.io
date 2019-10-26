@@ -11,46 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineering, Oregon State University, 2012
-* M.S. in Environmental Engineering, Stanford University, 2014
+* B.S. in Mechanical Engineering, Duke University, 2016
+* M.S. in Mechanical Engineering, Columbia University, 2018
 * Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
 
 Work experience
 ======
 
 **PhD Candidate, Mechanical Engineering, Columbia University (August 2016 to Present)**
- * Electricity Consumption Segmentation & Prediction
- * Electricity Network Analysis & Design
- * Building an Intelligent Irrigation System
  * Supervisor: Vijay Modi
+ * 
 
-**Applied Science Intern, Descartes Labs (Summer 2018)**
- * Applying Generative Adversarial Networks to obtain Higher Resolution Satellite Images from Lower Resolution Images towards matching images from various satellites.
 
-**Research Assistant, IBM Research East Africa (August 2015 to August 2016)**
- * IBM Research East Africa
- * Energy Analytics & Health Care Research 
-
-**Research Intern, IBM Research Almaden (Spring 2015)**
-   * Battery Optimization
-  
-**Research Intern, Intl. Institute for Water & Environmental Eng., Burkina Faso (Spring 2013)**
-  * Remote monitoring of soil organic carbon
-   
 Skills
 ======
 * Computer Vision 
-* Machine & Deep Learning
+* Machine and Deep Learning
   * Generative Adversarial Networks
   * Deep CNNs
-  * Disentanglement Learning
-* Python, Keras, PyTorch, Tensorflow 
+* Linear Programming and Optimization
+* Geospatial Analysis
+* Python, Tensorflow, Keras, and Gurobi 
   
 Awards & Leadership
 ======
-* Presidential Fellow Recipient, Columbia University
-* Fellow Recipient , American Association of University Women
-* Most Outstanding Student,Department of Environmental Eng, OSU 
-* Teaching Assistant, Engineering Economics, OSU
-* Senior Presenter , International Cultural Service Program, OSU 
-* OSU Chapter President, National Society of Black Engineers, OSU
+* Presidential Fellow, Columbia University
+* Angier B. Duke Scholar, Duke University
+* Member, Pi Tau Sigma
+* National Merit Scholar
