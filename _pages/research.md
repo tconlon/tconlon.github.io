@@ -1,1 +1,4 @@
-This is a test
+layout: archive
+title: "Active Research"
+permalink: /research/
+author_profile: true
