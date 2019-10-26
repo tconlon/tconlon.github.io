@@ -40,4 +40,4 @@ Awards & Leadership
 * Member, Pi Tau Sigma
 * National Merit Scholar
 
-[Current One-Page CV]('http://tconlon.github.io/files/Terence Conlon Resume.pdf')
+[Current One-Page CV](http://tconlon.github.io/files/"Terence Conlon Resume.pdf")
