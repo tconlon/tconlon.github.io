@@ -22,7 +22,6 @@ Work experience
  * Supervisor: Vijay Modi
  * 
 
-
 Skills
 ======
 * Computer Vision 
@@ -40,3 +39,5 @@ Awards & Leadership
 * Angier B. Duke Scholar, Duke University
 * Member, Pi Tau Sigma
 * National Merit Scholar
+
+[Current One-Page CV](http://tconlon.github.io/files/Terence Conlon Resume.pdf)
