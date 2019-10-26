@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simone Fobi"
+title                    : "Terry Conlon"
 title_separator          : "-"
-name                     : &name "Simone Fobi"
-description              : &description "PhD Candidate <br/>  Mechanical Engineering <br/> Energy Analytics Focus,<br/> Columbia University, NYC, USA  "
-url                      : "https://nsutezo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Terry Conlon"
+description              : &description "PhD Candidate <br/>  Mechanical Engineering <br/> Sustainable Engineering Lab,<br/> Columbia University, NYC, USA  "
+url                      : "https://tconlon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nsutezo.github.io"
+repository               : "tconlon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simone Fobi"
+  name             : "Terry Conlon"
   avatar           : "profile.png"
-  bio              : "PhD Candidiate, <br/> Mechanical Engineering, <br/> Energy Analytics Focus."
-  location         : "Columbia University, NYC, USA"
+  bio              : "PhD Candidiate, <br/> Mechanical Engineering, <br/> Sustainable Engineering Lab."
+  location         : "Columbia University"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nsutezo"
+  github           : "tconlon"
   google_plus      :
   keybase          :
   instagram        :
