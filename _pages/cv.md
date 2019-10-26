@@ -36,7 +36,7 @@ Skills
 Awards & Leadership
 ======
 * Presidential Fellow, Columbia University
-* Angier B. Duke Scholar, Duke University
 * Lead Teaching Assistant, MECE 4210: Energy Infrastructure and Planning, Columbia University 
+* Angier B. Duke Scholar, Duke University
 * Member, Pi Tau Sigma
 * National Merit Scholar
