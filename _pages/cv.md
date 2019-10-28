@@ -31,8 +31,8 @@ Skills
   * Generative Adversarial Networks
   * Deep CNNs
 * Linear Programming and Optimization
-* Geospatial Analysis
 * Cloud Computing
+* Geospatial Analysis
 * Python, Tensorflow, Keras, and Gurobi 
   
 Awards & Leadership
