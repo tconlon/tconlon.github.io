@@ -11,7 +11,7 @@ I am a 4th year PhD Student in the Sustainable Engineering Lab at Columbia Unive
 
 Education
 ======
-<i class="fas fa-graduation-cap"></i> Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)  
+<i class="fas fa-graduation-cap"></i> Ph.D. in Mechanical Engineering, Columbia University, 2021 (expected)  
 
 <i class="fas fa-graduation-cap"></i> M.S. in Mechanical Engineering, Columbia University, 2018 
 
