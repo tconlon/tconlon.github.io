@@ -9,7 +9,7 @@ author_profile: true
 
 **Irrigation Identification and Prediction** 
 
-My work on irrigation identification and prediction combines geopatial analysis, computer vision, and deep learning to locate irrigated cropland in East Africa. I use a combination of LANDSAT satellite imagery and USDA NASS cropland layers and agricultural censuses to determine the phenology of known irrigated land in the US; with these learned spatio-temporal patterns, I apply a domain-transfer approach to regions of the world where information on the location of irrigation is unavailable. As electricity demand for productive uses -- for irrigation, other agricultural applications, and commercial and industrial applications -- is likely to drive load growth in East Africa, understanding the likely scale and distribution of this consumption provides valuable information to system planners.
+My work on this topic combines geopatial analysis, computer vision, and deep learning to locate irrigated cropland in East Africa. I use a combination of LANDSAT satellite imagery, cropland layers, and USDA agricultural censuses to determine the phenology of irrigated land in the US; with these learned spatio-temporal patterns, I apply a domain-transfer approach to regions of the world where information on the location of irrigation is unavailable. As electricity demand for productive uses -- for irrigation, other agricultural applications, and commercial and industrial applications -- is likely to drive load growth in East Africa, understanding the likely scale and distribution of this consumption provides valuable information to system planners.
 
 **Electricity Network Analysis and Design**
 
