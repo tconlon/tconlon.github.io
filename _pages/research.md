@@ -13,5 +13,4 @@ My work on irrigation identification and prediction combines geopatial analysis,
 
 **Electricity Network Analysis and Design**
 
-Building on previous analyses set in New York State, I am also part of a team working on simulations of an interconnected grid system in the Eastern US in order to determine optimal pathways for integrating renewable generation. Prior work has shown that coupling electrification of heating and transportation with renewable energy expanstion is the best approach to reducing energy-related emisisions; by simulating these energy  transitions in larger system that offers increased grid flexibility, we aim to find cost-effective methods of decarbonization that can inform policy decisions. 
-
+Building on previous analyses set in New York State, I am also working on simulations of an interconnected grid system in the Eastern US. Prior work has shown that coupling electrification of heating and transportation with renewable energy expanstion is the best approach to reducing energy-related emisisions; by simulating these coupled energy transitions in larger system that offers increased grid flexibility, I aim to find cost-effective pathways for integrating renewable generation and meeting decarbonization goals. 
