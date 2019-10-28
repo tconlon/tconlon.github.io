@@ -18,9 +18,11 @@ Education
 Work Experience
 ======
 
-**PhD Candidate, Mechanical Engineering, Columbia University (August 2016 to Present)**
+**PhD Candidate, Department of Mechanical Engineering, Columbia University (August 2016 to Present)**
  * Supervisor: Professor Vijay Modi
- * 
+ * Irrigation Identification and Prediction using Satellite Imagery
+ * Evaluation of Cost-Effective Energy Transtition Pathways to Achieve Climate Goals
+ * Electricity System Simulation and Optimization
 
 Skills
 ======
