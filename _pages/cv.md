@@ -32,6 +32,7 @@ Skills
   * Deep CNNs
 * Linear Programming and Optimization
 * Geospatial Analysis
+* Cloud Computing
 * Python, Tensorflow, Keras, and Gurobi 
   
 Awards & Leadership
