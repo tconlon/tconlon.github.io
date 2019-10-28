@@ -15,7 +15,7 @@ Education
 * M.S. in Mechanical Engineering, Columbia University, 2018
 * B.S. in Mechanical Engineering, Duke University, 2016
 
-Work experience
+Work Experience
 ======
 
 **PhD Candidate, Mechanical Engineering, Columbia University (August 2016 to Present)**
