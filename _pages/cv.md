@@ -39,6 +39,7 @@ Awards & Leadership
 * Presidential Fellow, Columbia University
 * Lead Teaching Assistant, MECE 4210: Energy Infrastructure and Planning, Columbia University 
 * Angier B. Duke Scholar, Duke University
+* Pratt Fellow, Duke University
 * Member, Pi Tau Sigma
 * National Merit Scholar
 
