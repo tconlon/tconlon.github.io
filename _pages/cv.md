@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, Columbia University, 2021 (expected)
+* Ph.D. in Mechanical Engineering, Columbia University, 2021 (expected)
 * M.S. in Mechanical Engineering, Columbia University, 2018
 * B.S. in Mechanical Engineering, Duke University, 2016
 
