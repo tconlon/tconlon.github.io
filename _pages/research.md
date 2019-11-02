@@ -18,7 +18,6 @@ Satellite Imagery and USDA Cropland Layer
 
 <br/>
 
-
 **Electricity Network Analysis and Design**
 
 Building on previous analyses set in New York State, I am also working on optimization models of an interconnected grid system in the Eastern US. Prior work has shown that combining electrification of heating and transportation with renewable energy expanstion is the best approach to reducing energy-related emisisions; by simulating these coupled energy transitions in larger system that offers increased grid flexibility, I aim to find cost-effective pathways for integrating renewable generation and meeting decarbonization goals. 
