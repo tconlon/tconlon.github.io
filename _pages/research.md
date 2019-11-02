@@ -13,9 +13,10 @@ My work on this topic combines geopatial analysis, computer vision, and deep lea
 
 
 ![Satellite Imagery and USDA Cropland Layer](https://tconlon.github.io/files/imagery_and_cdl.png)
+
 Satellite Imagery and USDA Cropland Layer
 
-</n> </n>
+<br/>
 
 
 **Electricity Network Analysis and Design**
