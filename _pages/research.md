@@ -14,10 +14,13 @@ My work on this topic combines geopatial analysis, computer vision, and deep lea
 
 ![Satellite Imagery and USDA Cropland Layer](https://tconlon.github.io/files/imagery_and_cdl.png)
 
-Satellite Imagery and USDA Cropland Layer
+*Satellite imagery and USDA cropland layer.*
 
 <br/>
 
 **Electricity Network Analysis and Design**
 
 Building on previous analyses set in New York State, I am also working on optimization models of an interconnected grid system in the Eastern US. Prior work has shown that combining electrification of heating and transportation with renewable energy expanstion is the best approach to reducing energy-related emisisions; by simulating these coupled energy transitions in larger system that offers increased grid flexibility, I aim to find cost-effective pathways for integrating renewable generation and meeting decarbonization goals. 
+
+![East Coast System](https://tconlon.github.io/files/east_coast_system_map.png)
+*Electricity demand regions and potential offshore wind sites for studying the alignment of electrified heating loads and offshore generation.*
